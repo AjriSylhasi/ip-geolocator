@@ -8,9 +8,9 @@
 	<description>Java class library for obtaining geolocation information of an IP address.</description>
 	<developers>
 		<developer>
-			<id>jeszy</id>
-			<name>Péter Jeszenszky</name>
-			<email>jeszenszky.peter@inf.unideb.hu</email>
+			<id>Ajri</id>
+			<name>Ajri Sylhasi</name>
+			<email>ajrisylhasi@gmail.com</email>
 			<organization>Faculty of Informatics, University of Debrecen</organization>
 			<organizationUrl>http://www.inf.unideb.hu/</organizationUrl>
 		</developer>
@@ -125,7 +125,7 @@
 	<distributionManagement>
 		<site>
 			<id>shrek</id>
-			<url>scp://@shrek.unideb.hu:2222/home/jeszy/public_html/${project.artifactId}</url>
+			<url>scp://t3z4ap@shrek.unideb.hu:2222/home/t3z4ap/public_html/${project.artifactId}</url>
 		</site>
 	</distributionManagement>
 </project>
